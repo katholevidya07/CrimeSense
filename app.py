@@ -781,14 +781,10 @@ elif page == "Hotspot Analysis":
             # --------------------------------------------------
             st.subheader("India District Hotspot Map")
 
-            project_dir = os.path.dirname(os.path.dirname(BASE_DIR))
-
-            geo_path = os.path.join(
-                project_dir,
-                "Geographic_Data",
-                "india_district_boundaries_geoboundaries.geojson"
-            )
-
+         geo_path = os.path.join(
+    BASE_DIR,
+    "india_district_boundaries.geojson.gz"
+)
             if not os.path.exists(geo_path):
                 st.warning(
                     "GeoJSON boundary file not found: " + geo_path
@@ -796,10 +792,12 @@ elif page == "Hotspot Analysis":
 
             else:
                 try:
-                    with open(
-                        geo_path, "r", encoding="utf-8"
-                    ) as geo_file:
-                        geo_data = json.load(geo_file)
+                   import gzip
+
+with gzip.open(
+    geo_path, "rt", encoding="utf-8"
+) as geo_file:
+    geo_data = json.load(geo_file)
 
                     def normalize_district(name):
                         name = unicodedata.normalize("NFKD", str(name))
