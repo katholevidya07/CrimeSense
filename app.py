@@ -661,7 +661,7 @@ elif page == "Hotspot Analysis":
                         )
 
                     else:
-                        fig_map = px.choropleth_mapbox(
+                        fig_map = px.choropleth_map(
                             map_df,
                             geojson=map_geojson,
                             locations="Map_District",
@@ -680,7 +680,7 @@ elif page == "Hotspot Analysis":
                                 [0.7, "#dc2626"],
                                 [1.0, "#ff4d4d"],
                             ],
-                            mapbox_style="carto-darkmatter",
+                            map_style="carto-darkmatter",
                             center={
                                 "lat": 22.5,
                                 "lon": 79.0,
