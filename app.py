@@ -13,10 +13,10 @@ st.set_page_config(
     layout="wide"
 )
 
-BASE_DIR = "/content/drive/MyDrive/CrimeSense"
-DATA_DIR = os.path.join(BASE_DIR, "Processed_Data")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = BASE_DIR
 MODEL_PATH = os.path.join(
-    BASE_DIR, "Models", "crimesense_final_pipeline.pkl"
+    BASE_DIR, "models", "crimesense_final_pipeline.pkl"
 )
 
 st.title("🔎 CrimeSense")
