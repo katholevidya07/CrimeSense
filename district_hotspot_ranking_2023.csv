@@ -1,0 +1,301 @@
+State,District,Year,Total_Cases,Population,Total_Chargesheeted,Total_Convictions,Crime_Rate_per_100k,Crime_Risk,District_Map_Name,State_Map_Name,GeoJSON_Match,District_Key,Hotspot_Rank
+Gujarat,Surendranagar,2023,6604,853441,5328,3248,773.8086171158874,High,surendranagar,gujarat,True,surendranagar,1
+Kerala,Wayanad,2023,8485,1110426,6819,3977,764.1211571054712,High,wayanad,kerala,True,wayanad,2
+Punjab,Fazilka,2023,7962,1087208,6289,3579,732.3345670745616,High,fazilka,punjab,False,fazilka,3
+West Bengal,Alipurduar,2023,6227,862012,4965,2732,722.3797348528791,High,alipurduar,west bengal,False,alipurduar,4
+Maharashtra,Sangli,2023,6609,946144,5358,3031,698.5194642675956,High,sangli,maharashtra,True,sangli,5
+Bihar,Purnia,2023,7325,1129284,6108,3179,648.6410858561709,High,purnia,bihar,True,purnia,6
+Punjab,Moga,2023,8089,1277583,6354,3444,633.1486877956265,High,moga,punjab,True,moga,7
+Maharashtra,Aurangabad,2023,6295,998610,5127,2896,630.3762229499004,High,aurangabad,maharashtra,True,aurangabad,8
+Haryana,Gurugram,2023,6013,975719,4928,2771,616.263493895271,High,gurgaon,haryana,True,gurugram,9
+Bihar,Sitamarhi,2023,9207,1510328,7122,3861,609.6026823312552,High,sitamarhi,bihar,True,sitamarhi,10
+West Bengal,Durgapur,2023,5626,969127,4199,2264,580.5224702232009,High,durgapur,west bengal,False,durgapur,11
+Uttar Pradesh,Gorakhpur,2023,6500,1128143,5444,2706,576.1680921656209,High,gorakhpur,uttar pradesh,True,gorakhpur,12
+Kerala,Payyanur,2023,6245,1122850,4985,2736,556.1740214632409,High,payyanur,kerala,False,payyanur,13
+Karnataka,Bidar,2023,5278,956857,4095,2453,551.5975741411727,High,bidar,karnataka,True,bidar,14
+Tamil Nadu,Theni,2023,7841,1442123,6226,3582,543.7122908378827,High,theni,tamil nadu,True,theni,15
+Gujarat,Sabarkantha,2023,7112,1320018,5723,3620,538.7805317806273,High,sabar kantha,gujarat,True,sabarkantha,16
+Gujarat,Morbi,2023,6856,1278002,5696,2650,536.4623842529198,High,morbi,gujarat,False,morbi,17
+Madhya Pradesh,Balaghat,2023,4830,946571,3838,2290,510.26283289895844,High,balaghat,madhya pradesh,True,balaghat,18
+Madhya Pradesh,Morena,2023,6518,1282574,5297,2994,508.19679800151886,High,morena,madhya pradesh,True,morena,19
+Uttar Pradesh,Shahjahanpur,2023,6575,1305554,5251,3295,503.6176213316339,High,shahjahanpur,uttar pradesh,True,shahjahanpur,20
+West Bengal,Asansol,2023,6190,1253267,4709,2453,493.9091191262516,High,asansol,west bengal,False,asansol,21
+Rajasthan,Ajmer,2023,5981,1253578,4652,2356,477.11430800476717,High,ajmer,rajasthan,True,ajmer,22
+Karnataka,Hubballi,2023,7392,1568470,5916,2978,471.28730546328586,High,hubballi,karnataka,False,hubballi,23
+Tamil Nadu,Tiruppur,2023,3631,810709,2817,1582,447.8795720782673,High,tiruppur,tamil nadu,False,tiruppur,24
+West Bengal,Purulia,2023,7102,1604838,5502,3145,442.53687911178577,High,purulia,west bengal,False,purulia,25
+West Bengal,Midnapore,2023,5190,1173038,4158,2142,442.44090984264784,High,midnapore,west bengal,False,midnapore,26
+Bihar,Buxar,2023,6959,1595773,5730,3186,436.0895941966684,High,buxar,bihar,True,buxar,27
+Maharashtra,Nagpur,2023,7799,1813809,6389,3320,429.97912128564803,High,nagpur,maharashtra,True,nagpur,28
+West Bengal,Kolkata,2023,8281,1950899,6954,4195,424.47097466347566,High,kolkata,west bengal,True,kolkata,29
+Madhya Pradesh,Shivpuri,2023,8175,1961654,6596,3891,416.7401590698462,High,shivpuri,madhya pradesh,True,shivpuri,30
+Karnataka,Bagalkot,2023,5933,1454241,4606,2340,407.97914513481606,High,bagalkot,karnataka,True,bagalkot,31
+Uttar Pradesh,Ballia,2023,7742,1901481,6580,3267,407.1563165763949,High,ballia,uttar pradesh,True,ballia,32
+Tamil Nadu,Cuddalore,2023,7872,1939631,6529,3989,405.85039113109656,High,cuddalore,tamil nadu,True,cuddalore,33
+Uttar Pradesh,Jhansi,2023,5703,1456112,4629,2571,391.65943279088424,High,jhansi,uttar pradesh,True,jhansi,34
+Karnataka,Davanagere,2023,6053,1585322,4767,2570,381.8151769798186,High,davanagere,karnataka,True,davanagere,35
+Tamil Nadu,Ariyalur,2023,6467,1734788,5474,3045,372.7833026283327,High,ariyalur,tamil nadu,True,ariyalur,36
+Tamil Nadu,Virudhunagar,2023,5956,1601271,4545,2509,371.95452862132646,High,virudhunagar,tamil nadu,True,virudhunagar,37
+Tamil Nadu,Perambalur,2023,6508,1781765,5117,2875,365.2557997266755,High,perambalur,tamil nadu,True,perambalur,38
+Haryana,Hisar,2023,6462,1776880,5216,2918,363.67115393273605,High,hisar,haryana,True,hisar,39
+Maharashtra,Satara,2023,7714,2187899,6199,3360,352.5756901941086,High,satara,maharashtra,True,satara,40
+Uttar Pradesh,Ghaziabad,2023,7221,2086631,6179,3386,346.06022818600894,High,ghaziabad,uttar pradesh,True,ghaziabad,41
+Haryana,Panchkula,2023,5052,1460703,3870,2061,345.8608628858844,High,panchkula,haryana,True,panchkula,42
+Tamil Nadu,Thanjavur,2023,7243,2111280,5417,2654,343.0620287219128,High,thanjavur,tamil nadu,True,thanjavur,43
+Kerala,Muvattupuzha,2023,5066,1481606,4134,2440,341.9262610977547,High,muvattupuzha,kerala,False,muvattupuzha,44
+Madhya Pradesh,Rewa,2023,6801,2000029,5000,2788,340.0450693464945,High,rewa,madhya pradesh,True,rewa,45
+Punjab,Faridkot,2023,5367,1579820,4445,2660,339.7222468382474,High,faridkot,punjab,True,faridkot,46
+Maharashtra,Latur,2023,7575,2271380,6092,2765,333.4976974350395,High,latur,maharashtra,True,latur,47
+Kerala,Changanassery,2023,5624,1694939,4647,2422,331.811351322968,High,changanassery,kerala,False,changanassery,48
+Haryana,Fatehabad,2023,5957,1820038,4808,2806,327.30085855350274,High,fatehabad,haryana,True,fatehabad,49
+Punjab,Zirakpur,2023,6368,1949755,5286,2648,326.6051375685663,High,zirakpur,punjab,False,zirakpur,50
+Kerala,Thiruvananthapuram,2023,6909,2123205,5523,2725,325.4042826764255,High,thiruvananthapuram,kerala,True,thiruvananthapuram,51
+Punjab,Pathankot,2023,6580,2035386,5007,2876,323.2802033619176,High,pathankot,punjab,False,pathankot,52
+West Bengal,Kalimpong,2023,7517,2334973,5702,2997,321.93091740247104,High,kalimpong,west bengal,False,kalimpong,53
+Karnataka,Bengaluru Urban,2023,7627,2371012,6123,3310,321.6769885601591,High,bengaluru urban,karnataka,False,bengaluru urban,54
+Bihar,Muzaffarpur,2023,6872,2159899,5481,3019,318.1630252155309,High,muzaffarpur,bihar,True,muzaffarpur,55
+Tamil Nadu,Erode,2023,5337,1694079,3974,2271,315.03843681433983,High,erode,tamil nadu,True,erode,56
+Punjab,Mohali,2023,5287,1709613,4224,2212,309.2512749961541,High,mohali,punjab,False,mohali,57
+Gujarat,Patan,2023,7104,2305956,5773,3040,308.0717932172166,High,patan,gujarat,True,patan,58
+Uttar Pradesh,Mathura,2023,7202,2366283,5960,3339,304.35919963926546,High,mathura,uttar pradesh,True,mathura,59
+Punjab,Malerkotla,2023,5405,1794060,4446,2131,301.27197529625545,High,malerkotla,punjab,False,malerkotla,60
+Uttar Pradesh,Prayagraj,2023,4814,1612259,3844,2170,298.5872617240778,High,prayagraj,uttar pradesh,False,prayagraj,61
+Gujarat,Rajkot,2023,5605,1881546,4602,2538,297.89332814610964,High,rajkot,gujarat,True,rajkot,62
+Haryana,Faridabad,2023,5470,1867627,4357,2585,292.8850353951833,High,faridabad,haryana,True,faridabad,63
+Uttar Pradesh,Basti,2023,5496,1876882,4680,2360,292.8260807019301,High,basti,uttar pradesh,True,basti,64
+Punjab,Firozpur,2023,5366,1849641,4379,2710,290.11035114381656,High,firozpur,punjab,True,firozpur,65
+Madhya Pradesh,Khandwa,2023,7462,2646823,5810,3559,281.92289397515435,High,khandwa,madhya pradesh,False,khandwa,66
+Kerala,Nedumangad,2023,6598,2341988,4940,2206,281.7264648666005,High,nedumangad,kerala,False,nedumangad,67
+Rajasthan,Hanumangarh,2023,8919,3180680,7119,4001,280.4117358552259,High,hanumangarh,rajasthan,True,hanumangarh,68
+Karnataka,Mysuru,2023,8053,2872025,6399,3365,280.39449517326625,High,mysuru,karnataka,False,mysuru,69
+Bihar,Katihar,2023,5185,1851375,4124,2262,280.0621159948687,High,katihar,bihar,True,katihar,70
+Haryana,Nuh,2023,7601,2753713,6440,3882,276.02731294074584,High,nuh,haryana,False,nuh,71
+Maharashtra,Nanded,2023,3423,1255685,2676,1741,272.6002142257015,High,nanded,maharashtra,True,nanded,72
+Bihar,Nalanda,2023,7046,2586919,5522,3218,272.37033706892254,High,nalanda,bihar,True,nalanda,73
+Punjab,Tarn Taran,2023,5588,2052897,4168,2091,272.20069979156284,High,tarn taran,punjab,False,tarn taran,74
+Madhya Pradesh,Gwalior,2023,6203,2294770,4671,2709,270.31031432343985,High,gwalior,madhya pradesh,True,gwalior,75
+Kerala,Malappuram,2023,5838,2187791,4744,2654,266.84450205709777,High,malappuram,kerala,True,malappuram,76
+Karnataka,Haveri,2023,4181,1569021,3485,2161,266.47189553230965,High,haveri,karnataka,True,haveri,77
+West Bengal,Darjeeling,2023,5899,2275792,4262,2472,259.20646526571846,High,darjeeling,west bengal,False,darjeeling,78
+Rajasthan,Jaipur,2023,6548,2564706,5283,2966,255.31191489394888,High,jaipur,rajasthan,True,jaipur,79
+Bihar,Siwan,2023,5846,2299224,4672,2928,254.25969805464803,High,siwan,bihar,True,siwan,80
+Punjab,Bathinda,2023,7912,3130087,6315,3376,252.77252677002267,High,bathinda,punjab,True,bathinda,81
+Maharashtra,Parbhani,2023,5854,2340935,4763,2723,250.07101863144428,High,parbhani,maharashtra,True,parbhani,82
+Gujarat,Gir Somnath,2023,7882,3171151,6489,3671,248.55328554206343,High,gir somnath,gujarat,False,gir somnath,83
+Maharashtra,Mumbai,2023,5170,2087357,3871,2026,247.68163759241952,High,mumbai,maharashtra,False,mumbai,84
+Madhya Pradesh,Satna,2023,5387,2205280,4219,2173,244.27737067401873,High,satna,madhya pradesh,True,satna,85
+Punjab,Gurdaspur,2023,6617,2742879,5245,2768,241.24286926255223,High,gurdaspur,punjab,True,gurdaspur,86
+Punjab,Hoshiarpur,2023,5097,2116881,4015,2183,240.77876838613034,High,hoshiarpur,punjab,True,hoshiarpur,87
+Karnataka,Belagavi,2023,6091,2542439,5039,2899,239.5731028355056,High,belagavi,karnataka,False,belagavi,88
+Haryana,Yamunanagar,2023,5622,2409346,4527,2558,233.34132997087178,High,yamunanagar,haryana,False,yamunanagar,89
+Rajasthan,Sikar,2023,5674,2478332,4602,2203,228.944306089741,High,sikar,rajasthan,True,sikar,90
+Uttar Pradesh,Varanasi,2023,4847,2157960,3912,1897,224.61028007933422,High,varanasi,uttar pradesh,True,varanasi,91
+Uttar Pradesh,Aligarh,2023,4794,2158337,3840,2331,222.11545277683697,High,aligarh,uttar pradesh,True,aligarh,92
+Gujarat,Amreli,2023,5761,2617033,4278,2467,220.13478622546984,High,amreli,gujarat,True,amreli,93
+Punjab,Rajpura,2023,4857,2235856,4133,2267,217.23223678090181,High,rajpura,punjab,False,rajpura,94
+Rajasthan,Bhilwara,2023,5243,2415774,4056,2256,217.03189122823574,High,bhilwara,rajasthan,True,bhilwara,95
+Bihar,Saharsa,2023,7159,3301181,5958,3545,216.8617837071036,High,saharsa,bihar,True,saharsa,96
+Bihar,Bhagalpur,2023,5401,2503206,4225,1975,215.7633051374917,High,bhagalpur,bihar,True,bhagalpur,97
+Uttar Pradesh,Noida,2023,8334,3896958,6522,3469,213.85911780419497,High,noida,uttar pradesh,False,noida,98
+Karnataka,Chitradurga,2023,7341,3482085,5635,3068,210.82196442648586,High,chitradurga,karnataka,True,chitradurga,99
+Tamil Nadu,Sivaganga,2023,7675,3643173,5875,3342,210.66800835425602,Medium,sivaganga,tamil nadu,True,sivaganga,100
+Maharashtra,Ratnagiri,2023,6410,3051472,5456,2850,210.06255341684275,Medium,ratnagiri,maharashtra,True,ratnagiri,101
+Maharashtra,Thane,2023,7118,3447683,6181,3209,206.4574962373281,Medium,thane,maharashtra,True,thane,102
+Madhya Pradesh,Ujjain,2023,7783,3773340,6283,3694,206.26288646133136,Medium,ujjain,madhya pradesh,True,ujjain,103
+Madhya Pradesh,Bhopal,2023,6344,3086176,5289,2897,205.56183445143762,Medium,bhopal,madhya pradesh,True,bhopal,104
+Haryana,Tohana,2023,5565,2729130,4611,2439,203.91113651603257,Medium,tohana,haryana,False,tohana,105
+Bihar,Banka,2023,6428,3153916,4850,2632,203.8101204978192,Medium,banka,bihar,True,banka,106
+Madhya Pradesh,Mandsaur,2023,4725,2333850,3868,2320,202.4551706407867,Medium,mandsaur,madhya pradesh,True,mandsaur,107
+Bihar,Begusarai,2023,5986,2970339,4827,2529,201.5258191068427,Medium,begusarai,bihar,True,begusarai,108
+Punjab,Ropar,2023,6319,3157314,5204,3041,200.13847213169169,Medium,ropar,punjab,False,ropar,109
+Gujarat,Surat,2023,6651,3369436,5165,2905,197.39208579714827,Medium,surat,gujarat,True,surat,110
+West Bengal,Jalpaiguri,2023,6295,3239822,5329,2662,194.30079800680406,Medium,jalpaiguri,west bengal,True,jalpaiguri,111
+Rajasthan,Dausa,2023,9388,4961566,7425,4245,189.2144536624122,Medium,dausa,rajasthan,True,dausa,112
+Bihar,Arrah,2023,7637,4036270,6183,3566,189.2093442708243,Medium,arrah,bihar,False,arrah,113
+Bihar,Gaya,2023,5209,2753687,4079,2125,189.1645637285574,Medium,gaya,bihar,True,gaya,114
+Haryana,Jind,2023,6291,3351353,4778,2578,187.71523023686254,Medium,jind,haryana,True,jind,115
+Karnataka,Chikkamagaluru,2023,7662,4118122,6157,3669,186.0556826631168,Medium,chikkamagaluru,karnataka,False,chikkamagaluru,116
+Rajasthan,Churu,2023,6085,3274236,4711,2253,185.8448810653844,Medium,churu,rajasthan,True,churu,117
+Tamil Nadu,Vellore,2023,7566,4087240,5955,3180,185.11269218347834,Medium,vellore,tamil nadu,True,vellore,118
+Madhya Pradesh,Datia,2023,5793,3132765,4302,2375,184.9165194325141,Medium,datia,madhya pradesh,True,datia,119
+Uttar Pradesh,Saharanpur,2023,5904,3203710,4639,2525,184.28634302105996,Medium,saharanpur,uttar pradesh,True,saharanpur,120
+Haryana,Sirsa,2023,4628,2523815,3610,1952,183.37318702044325,Medium,sirsa,haryana,True,sirsa,121
+Punjab,Ludhiana,2023,6511,3562719,5394,3266,182.75367773882812,Medium,ludhiana,punjab,True,ludhiana,122
+West Bengal,Hooghly,2023,6499,3557293,5104,3141,182.69509989759067,Medium,hooghly,west bengal,False,hooghly,123
+West Bengal,Haldia,2023,8100,4434110,6290,3680,182.67476449614466,Medium,haldia,west bengal,False,haldia,124
+Bihar,Jamui,2023,5966,3266935,4913,2532,182.61765232549774,Medium,jamui,bihar,True,jamui,125
+Karnataka,Hassan,2023,7418,4066409,5761,3272,182.42139440474384,Medium,hassan,karnataka,True,hassan,126
+Punjab,Abohar,2023,4981,2731488,3729,1937,182.3548190583301,Medium,abohar,punjab,False,abohar,127
+Haryana,Sonipat,2023,7009,3858165,5933,3521,181.666673146431,Medium,sonepat,haryana,True,sonipat,128
+Gujarat,Anand,2023,8070,4465941,6397,3680,180.70099896080131,Medium,anand,gujarat,True,anand,129
+Maharashtra,Wardha,2023,6702,3723585,5209,2584,179.98783430484332,Medium,wardha,maharashtra,True,wardha,130
+Bihar,Samastipur,2023,6512,3646843,5488,3498,178.56540574957572,Medium,samastipur,bihar,True,samastipur,131
+West Bengal,Cooch Behar,2023,7143,4055464,5756,3097,176.1327433802889,Medium,cooch behar,west bengal,False,cooch behar,132
+Haryana,Kosli,2023,6716,3820552,5613,3202,175.7861167705609,Medium,kosli,haryana,False,kosli,133
+Uttar Pradesh,Mirzapur,2023,7538,4297105,5918,3546,175.42042840470504,Medium,mirzapur,uttar pradesh,True,mirzapur,134
+Rajasthan,Dungarpur,2023,4837,2768277,3845,2104,174.72962423919284,Medium,dungarpur,rajasthan,True,dungarpur,135
+Gujarat,Gandhinagar,2023,6986,4019887,5632,2816,173.78597955614177,Medium,gandhinagar,gujarat,True,gandhinagar,136
+Kerala,Idukki,2023,6813,3936390,5246,2608,173.07736276131178,Medium,idukki,kerala,True,idukki,137
+Karnataka,Yadgir,2023,4760,2797516,3662,2129,170.15094819833024,Medium,yadgir,karnataka,False,yadgir,138
+Bihar,Patna,2023,6990,4113023,5577,2821,169.94799202435775,Medium,patna,bihar,True,patna,139
+Maharashtra,Dhule,2023,7063,4187986,5857,3311,168.64908335414685,Medium,dhule,maharashtra,True,dhule,140
+Tamil Nadu,Tiruchirappalli,2023,6741,4000604,5469,2667,168.4995565669584,Medium,tiruchirappalli,tamil nadu,False,tiruchirappalli,141
+Karnataka,Ramanagara,2023,6392,3810043,4922,2787,167.7671354365292,Medium,ramanagara,karnataka,False,ramanagara,142
+Tamil Nadu,Dindigul,2023,7111,4243205,5783,3377,167.5855868382508,Medium,dindigul,tamil nadu,True,dindigul,143
+Kerala,Chalakudy,2023,7266,4335842,5636,2843,167.57990720141555,Medium,chalakudy,kerala,False,chalakudy,144
+Karnataka,Gadag,2023,5543,3324006,4346,2359,166.7566183695216,Medium,gadag,karnataka,True,gadag,145
+Gujarat,Jamnagar,2023,6306,3787611,5257,2918,166.49017018907168,Medium,jamnagar,gujarat,True,jamnagar,146
+Haryana,Charkhi Dadri,2023,7615,4582367,6231,3307,166.18049143597622,Medium,charkhi dadri,haryana,False,charkhi dadri,147
+Maharashtra,Osmanabad,2023,8137,4915094,6338,3559,165.55125904001022,Medium,osmanabad,maharashtra,True,osmanabad,148
+Bihar,Madhubani,2023,7867,4815127,6352,3612,163.38094509241398,Medium,madhubani,bihar,True,madhubani,149
+Karnataka,Kolar,2023,7828,4794621,6339,3527,163.2662936236253,Medium,kolar,karnataka,True,kolar,150
+Rajasthan,Jhunjhunu,2023,7035,4391384,5273,2863,160.20006448991933,Medium,jhunjhunu,rajasthan,False,jhunjhunu,151
+Karnataka,Vijayapura,2023,4165,2600649,3359,1955,160.1523312065565,Medium,vijayapura,karnataka,False,vijayapura,152
+Kerala,Ottapalam,2023,7792,4929427,6212,3394,158.0711104962098,Medium,ottapalam,kerala,False,ottapalam,153
+Tamil Nadu,Chennai,2023,6431,4077053,5156,2732,157.73648269963624,Medium,chennai,tamil nadu,True,chennai,154
+Bihar,Rohtas,2023,6551,4198304,5075,2363,156.03920059147694,Medium,rohtas,bihar,True,rohtas,155
+Tamil Nadu,Tirunelveli,2023,6730,4341152,5704,3618,155.02797414142606,Medium,tirunelveli,tamil nadu,False,tirunelveli,156
+Punjab,Jalandhar,2023,4474,2990065,3451,1699,149.62885422223263,Medium,jalandhar,punjab,True,jalandhar,157
+Tamil Nadu,Ramanathapuram,2023,5380,3599496,4570,2164,149.4653695961879,Medium,ramanathapuram,tamil nadu,True,ramanathapuram,158
+Kerala,Ernakulam,2023,4792,3238788,3898,2083,147.9565812890501,Medium,ernakulam,kerala,True,ernakulam,159
+Karnataka,Tumakuru,2023,7854,5333103,6224,3566,147.26886017389876,Medium,tumakuru,karnataka,False,tumakuru,160
+Tamil Nadu,Salem,2023,7872,5367277,6425,3706,146.66654990975871,Medium,salem,tamil nadu,True,salem,161
+Madhya Pradesh,Jabalpur,2023,7271,5000440,5339,2983,145.40720416603338,Medium,jabalpur,madhya pradesh,True,jabalpur,162
+Gujarat,Botad,2023,7271,5000871,5528,2842,145.39467224809437,Medium,botad,gujarat,False,botad,163
+Uttar Pradesh,Kanpur Nagar,2023,6693,4685861,5011,2871,142.83394236406073,Medium,kanpur nagar,uttar pradesh,False,kanpur nagar,164
+Kerala,Pathanamthitta,2023,6608,4626671,5183,2827,142.82407372385026,Medium,pathanamthitta,kerala,False,pathanamthitta,165
+Haryana,Mahendragarh,2023,9183,6450094,7593,4002,142.37001817337855,Medium,mahendragarh,haryana,True,mahendragarh,166
+Uttar Pradesh,Ayodhya,2023,4594,3236184,3754,1964,141.95731763088872,Medium,ayodhya,uttar pradesh,False,ayodhya,167
+Rajasthan,Tonk,2023,7754,5472044,6394,3573,141.70207695698355,Medium,tonk,rajasthan,True,tonk,168
+Uttar Pradesh,Agra,2023,5717,4040904,4525,2745,141.47824348215153,Medium,agra,uttar pradesh,True,agra,169
+Kerala,Kozhikode,2023,8519,6027553,6813,3659,141.33430265980243,Medium,kozhikode,kerala,True,kozhikode,170
+Karnataka,Kodagu,2023,5229,3714232,4131,2358,140.7828051667209,Medium,kodagu,karnataka,True,kodagu,171
+Rajasthan,Bikaner,2023,8075,5802109,6440,3607,139.1735315555085,Medium,bikaner,rajasthan,True,bikaner,172
+West Bengal,Bardhaman,2023,7415,5346197,5443,3185,138.69672217465984,Medium,bardhaman,west bengal,False,bardhaman,173
+Punjab,Barnala,2023,4478,3229173,3904,2108,138.67327640854174,Medium,barnala,punjab,False,barnala,174
+Madhya Pradesh,Betul,2023,6226,4514359,4740,3050,137.9154825746025,Medium,betul,madhya pradesh,True,betul,175
+Rajasthan,Bundi,2023,5722,4224610,4641,2693,135.44445522781984,Medium,bundi,rajasthan,True,bundi,176
+Rajasthan,Sri Ganganagar,2023,5883,4348632,4376,2096,135.28392377188965,Medium,sri ganganagar,rajasthan,False,sri ganganagar,177
+Rajasthan,Udaipur,2023,7035,5215225,5761,3296,134.89350890901162,Medium,udaipur,rajasthan,True,udaipur,178
+Maharashtra,Kolhapur,2023,6306,4677749,4988,2884,134.80843029414362,Medium,kolhapur,maharashtra,True,kolhapur,179
+Uttar Pradesh,Meerut,2023,7837,5834332,6372,3459,134.32557489015022,Medium,meerut,uttar pradesh,True,meerut,180
+Haryana,Panipat,2023,6214,4642548,4974,2991,133.8489122783437,Medium,panipat,haryana,True,panipat,181
+Kerala,Thodupuzha,2023,5386,4027509,3862,2183,133.73030327182386,Medium,thodupuzha,kerala,False,thodupuzha,182
+Bihar,Kishanganj,2023,7036,5286244,5453,3089,133.1001747176256,Medium,kishanganj,bihar,True,kishanganj,183
+Maharashtra,Beed,2023,5894,4453477,4595,2414,132.34602985487518,Medium,beed,maharashtra,False,beed,184
+West Bengal,Howrah,2023,6712,5107623,4950,2474,131.4114217122133,Medium,howrah,west bengal,False,howrah,185
+Maharashtra,Chandrapur,2023,5345,4072014,3816,2127,131.26182768526826,Medium,chandrapur,maharashtra,True,chandrapur,186
+Rajasthan,Pali,2023,6166,4702228,4475,2517,131.12932848003118,Medium,pali,rajasthan,True,pali,187
+Haryana,Jhajjar,2023,4153,3182437,3224,1988,130.49747724778211,Medium,jhajjar,haryana,True,jhajjar,188
+Kerala,Kottayam,2023,6395,4936527,5406,2999,129.54451581040678,Medium,kottayam,kerala,True,kottayam,189
+Tamil Nadu,Krishnagiri,2023,7163,5546811,5928,3427,129.13726463728437,Medium,krishnagiri,tamil nadu,False,krishnagiri,190
+Madhya Pradesh,Indore,2023,6358,4934247,4839,2770,128.8545141740979,Medium,indore,madhya pradesh,True,indore,191
+Punjab,Batala,2023,7035,5480753,5501,3097,128.35827485748766,Medium,batala,punjab,False,batala,192
+Maharashtra,Ahmednagar,2023,7292,5690072,6035,3000,128.1530356733623,Medium,ahmednagar,maharashtra,True,ahmednagar,193
+Tamil Nadu,Nagapattinam,2023,6197,4839311,5166,3200,128.0554194595057,Medium,nagapattinam,tamil nadu,True,nagapattinam,194
+Tamil Nadu,Namakkal,2023,7038,5499707,5586,2752,127.97045369871522,Medium,namakkal,tamil nadu,True,namakkal,195
+Haryana,Rohtak,2023,5805,4536658,4523,2371,127.95762872140682,Medium,rohtak,haryana,True,rohtak,196
+Madhya Pradesh,Chhindwara,2023,6868,5371261,5472,2857,127.86569112914081,Medium,chhindwara,madhya pradesh,True,chhindwara,197
+Haryana,Hansi,2023,5635,4443390,4509,2864,126.81758747262789,Medium,hansi,haryana,False,hansi,198
+Tamil Nadu,Kanchipuram,2023,6771,5421516,5538,3085,124.89126657562201,Medium,kanchipuram,tamil nadu,False,kanchipuram,199
+Tamil Nadu,Karur,2023,4896,3923041,4011,2071,124.80114278693493,Medium,karur,tamil nadu,True,karur,200
+Maharashtra,Buldhana,2023,5350,4314685,4032,2175,123.99514680677731,Medium,buldhana,maharashtra,False,buldhana,201
+Kerala,Ponnani,2023,7397,6003283,6241,3332,123.2159136925579,Low,ponnani,kerala,False,ponnani,202
+Rajasthan,Alwar,2023,6364,5185044,5328,2995,122.73762768454809,Low,alwar,rajasthan,True,alwar,203
+Haryana,Bhiwani,2023,6763,5522363,5477,3264,122.46569086458098,Low,bhiwani,haryana,True,bhiwani,204
+Bihar,Darbhanga,2023,4843,4007665,3835,2096,120.84343377003817,Low,darbhanga,bihar,True,darbhanga,205
+Kerala,Attingal,2023,5624,4682554,4569,2686,120.10539547435012,Low,attingal,kerala,False,attingal,206
+Karnataka,Raichur,2023,4594,3826872,3459,2073,120.04582332515955,Low,raichur,karnataka,True,raichur,207
+Tamil Nadu,Thoothukudi,2023,7983,6653042,6200,3592,119.99022402083138,Low,thoothukudi,tamil nadu,True,thoothukudi,208
+Maharashtra,Palghar,2023,5023,4208549,3950,1988,119.35229933166988,Low,palghar,maharashtra,False,palghar,209
+West Bengal,Siliguri,2023,7201,6113289,5815,3033,117.79256632559003,Low,siliguri,west bengal,False,siliguri,210
+Karnataka,Udupi,2023,7309,6317754,5855,3241,115.68984800611103,Low,udupi,karnataka,True,udupi,211
+Bihar,Khagaria,2023,5331,4613021,4057,2278,115.56418234384799,Low,khagaria,bihar,True,khagaria,212
+Maharashtra,Akola,2023,5668,4911231,4543,2473,115.4089473698142,Low,akola,maharashtra,True,akola,213
+Bihar,Motihari,2023,5061,4387449,3995,2305,115.3517681914935,Low,motihari,bihar,False,motihari,214
+Haryana,Kurukshetra,2023,6083,5276632,4810,2530,115.28186919231814,Low,kurukshetra,haryana,True,kurukshetra,215
+Kerala,Kochi,2023,6500,5655791,5101,2973,114.9264532582622,Low,kochi,kerala,False,kochi,216
+Madhya Pradesh,Dewas,2023,6370,5584783,4879,2838,114.05993751234381,Low,dewas,madhya pradesh,True,dewas,217
+Gujarat,Dahod,2023,6292,5575810,5105,2979,112.84459118944153,Low,dahod,gujarat,True,dahod,218
+Madhya Pradesh,Damoh,2023,6464,5752684,4757,2861,112.36494130392005,Low,damoh,madhya pradesh,True,damoh,219
+Haryana,Ambala,2023,6095,5434514,5197,3058,112.15354307671302,Low,ambala,haryana,True,ambala,220
+Karnataka,Ballari,2023,5401,4817013,3799,2047,112.1234258657803,Low,bellary,karnataka,True,ballari,221
+Uttar Pradesh,Raebareli,2023,5979,5341612,4742,2640,111.93250277257128,Low,raebareli,uttar pradesh,False,raebareli,222
+Punjab,Amritsar,2023,7055,6355336,5449,3196,111.0090796143587,Low,amritsar,punjab,True,amritsar,223
+Uttar Pradesh,Moradabad,2023,5370,4848621,4165,2303,110.75313991338982,Low,moradabad,uttar pradesh,True,moradabad,224
+Karnataka,Mangaluru,2023,6181,5584448,5133,2788,110.68238078320364,Low,mangaluru,karnataka,False,mangaluru,225
+Kerala,Kasargod,2023,6621,5987095,5415,2773,110.58785604704786,Low,kasargod,kerala,False,kasargod,226
+Haryana,Rewari,2023,6772,6131125,5545,3213,110.45281249362881,Low,rewari,haryana,True,rewari,227
+Bihar,Gopalganj,2023,7340,6654772,5954,3140,110.29679153545756,Low,gopalganj,bihar,True,gopalganj,228
+Gujarat,Vadodara,2023,4197,3810765,3279,1852,110.13536652089542,Low,vadodara,gujarat,True,vadodara,229
+Gujarat,Bhavnagar,2023,5962,5414781,4554,2711,110.10602275512157,Low,bhavnagar,gujarat,True,bhavnagar,230
+Kerala,Palakkad,2023,6757,6177686,5339,3164,109.37752420566535,Low,palakkad,kerala,True,palakkad,231
+Rajasthan,Karauli,2023,3711,3421394,2728,1683,108.4645615208304,Low,karauli,rajasthan,True,karauli,232
+Rajasthan,Jodhpur,2023,7069,6544727,5860,3510,108.01061679119694,Low,jodhpur,rajasthan,True,jodhpur,233
+Kerala,Alappuzha,2023,7311,6769496,6164,3341,107.99917748677304,Low,alappuzha,kerala,True,alappuzha,234
+Punjab,Mansa,2023,6058,5609782,4565,2642,107.98993615081655,Low,mansa,punjab,True,mansa,235
+Madhya Pradesh,Sagar,2023,4515,4186441,3646,1926,107.84816984163875,Low,sagar,madhya pradesh,True,sagar,236
+West Bengal,North 24 Parganas,2023,6188,5745404,4863,2770,107.70347916351922,Low,north 24 parganas,west bengal,True,north 24 parganas,237
+Uttar Pradesh,Sitapur,2023,5550,5173990,4391,2445,107.26731207443385,Low,sitapur,uttar pradesh,True,sitapur,238
+Punjab,Kapurthala,2023,7097,6668876,5475,2897,106.41973250064929,Low,kapurthala,punjab,True,kapurthala,239
+West Bengal,Murshidabad,2023,4670,4431532,3738,2158,105.3811638954655,Low,murshidabad,west bengal,True,murshidabad,240
+West Bengal,Barrackpore,2023,4866,4625479,3890,2456,105.19991551145299,Low,barrackpore,west bengal,False,barrackpore,241
+Uttar Pradesh,Muzaffarnagar,2023,5966,5708563,4840,2541,104.50966381556971,Low,muzaffarnagar,uttar pradesh,True,muzaffarnagar,242
+Gujarat,Aravalli,2023,6858,6638111,5449,2770,103.31252369838347,Low,aravalli,gujarat,False,aravalli,243
+West Bengal,Nadia,2023,6015,5849196,4860,2856,102.83464599237229,Low,nadia,west bengal,True,nadia,244
+Uttar Pradesh,Bareilly,2023,4618,4495409,3529,2275,102.72702661760032,Low,bareilly,uttar pradesh,True,bareilly,245
+Maharashtra,Solapur,2023,5843,5720707,4847,2889,102.13772528465451,Low,solapur,maharashtra,True,solapur,246
+Punjab,Khanna,2023,6036,5918354,4898,2450,101.98781620700622,Low,khanna,punjab,False,khanna,247
+Maharashtra,Jalgaon,2023,4055,3983482,3132,1740,101.79536395545405,Low,jalgaon,maharashtra,True,jalgaon,248
+Tamil Nadu,Coimbatore,2023,6754,6659491,5315,2853,101.41916251557365,Low,coimbatore,tamil nadu,True,coimbatore,249
+Gujarat,Kutch,2023,5659,5616745,4643,2498,100.75230404798508,Low,kutch,gujarat,False,kutch,250
+Gujarat,Porbandar,2023,6164,6121461,4821,2981,100.69491580523015,Low,porbandar,gujarat,True,porbandar,251
+Rajasthan,Barmer,2023,6810,6768852,5469,3172,100.60790219670929,Low,barmer,rajasthan,True,barmer,252
+Maharashtra,Pune,2023,6056,6047634,5024,2811,100.13833509104552,Low,pune,maharashtra,True,pune,253
+Rajasthan,Kota,2023,4426,4443550,3544,1997,99.60504551540998,Low,kota,rajasthan,True,kota,254
+Kerala,Manjeri,2023,5469,5498609,4180,2386,99.46151835855213,Low,manjeri,kerala,False,manjeri,255
+West Bengal,Bankura,2023,6232,6268032,4812,2177,99.42514652126857,Low,bankura,west bengal,True,bankura,256
+Gujarat,Mehsana,2023,5923,5969938,4749,2287,99.21376067892163,Low,mahesana,gujarat,True,mehsana,257
+Gujarat,Bharuch,2023,6090,6165299,4576,1921,98.77866426267406,Low,bharuch,gujarat,True,bharuch,258
+Kerala,Kannur,2023,5919,5997452,4815,2766,98.69191116494139,Low,kannur,kerala,True,kannur,259
+Bihar,Araria,2023,3899,3952267,3194,1698,98.65224186523835,Low,araria,bihar,True,araria,260
+Gujarat,Banaskantha,2023,6295,6433235,5015,2836,97.8512365862587,Low,banas kantha,gujarat,True,banaskantha,261
+Madhya Pradesh,Hoshangabad,2023,4455,4590537,3534,2063,97.04746960976462,Low,hoshangabad,madhya pradesh,True,hoshangabad,262
+Madhya Pradesh,Neemuch,2023,5249,5419850,4287,2584,96.84769873704992,Low,neemuch,madhya pradesh,True,neemuch,263
+Rajasthan,Jhalawar,2023,6373,6620911,5111,2772,96.25563612016533,Low,jhalawar,rajasthan,True,jhalawar,264
+Madhya Pradesh,Katni,2023,5740,5982374,4512,2573,95.94853146927959,Low,katni,madhya pradesh,True,katni,265
+Maharashtra,Nashik,2023,5711,5959279,4521,2808,95.83374096094511,Low,nashik,maharashtra,True,nashik,266
+Madhya Pradesh,Ratlam,2023,5926,6212362,4492,2316,95.39044891459963,Low,ratlam,madhya pradesh,True,ratlam,267
+Gujarat,Valsad,2023,4813,5098683,3690,1917,94.39692563746364,Low,valsad,gujarat,True,valsad,268
+Haryana,Kaithal,2023,6513,6920902,5115,2775,94.10623066184148,Low,kaithal,haryana,True,kaithal,269
+Tamil Nadu,Dharmapuri,2023,5764,6139654,4556,2786,93.88151188975796,Low,dharmapuri,tamil nadu,True,dharmapuri,270
+West Bengal,Birbhum,2023,4723,5057807,3709,1913,93.38039193666346,Low,birbhum,west bengal,True,birbhum,271
+Karnataka,Kalaburagi,2023,3993,4280150,3172,1780,93.2911229746621,Low,kalaburagi,karnataka,False,kalaburagi,272
+Rajasthan,Nagaur,2023,5757,6211288,4663,2473,92.68609022798492,Low,nagaur,rajasthan,True,nagaur,273
+Kerala,Kollam,2023,5932,6434912,4318,2777,92.18463282792368,Low,kollam,kerala,True,kollam,274
+Madhya Pradesh,Vidisha,2023,5551,6060776,4271,2587,91.58893184635103,Low,vidisha,madhya pradesh,True,vidisha,275
+West Bengal,Basirhat,2023,4826,5326781,3804,1589,90.59880629595997,Low,basirhat,west bengal,False,basirhat,276
+Haryana,Karnal,2023,4890,5409290,4156,2278,90.40003401555472,Low,karnal,haryana,True,karnal,277
+West Bengal,Chandannagar,2023,5763,6395010,4852,2331,90.11713820619514,Low,chandannagar,west bengal,False,chandannagar,278
+Uttar Pradesh,Firozabad,2023,4820,5364402,3812,2465,89.85158084722211,Low,firozabad,uttar pradesh,True,firozabad,279
+Gujarat,Junagadh,2023,5943,6652604,4942,2784,89.33343995824792,Low,junagadh,gujarat,True,junagadh,280
+Punjab,Patiala,2023,4686,5258082,3765,2229,89.11994906127367,Low,patiala,punjab,True,patiala,281
+Uttar Pradesh,Etawah,2023,4944,5556520,3834,2136,88.97655367028284,Low,etawah,uttar pradesh,True,etawah,282
+Gujarat,Ahmedabad,2023,5273,5951145,4257,2171,88.60479790023601,Low,ahmadabad,gujarat,True,ahmedabad,283
+Rajasthan,Sawai Madhopur,2023,5960,6758343,4600,2573,88.18729679745465,Low,sawai madhopur,rajasthan,True,sawai madhopur,284
+Maharashtra,Amravati,2023,4525,5230272,3361,1967,86.51557701014403,Low,amravati,maharashtra,True,amravati,285
+Rajasthan,Jaisalmer,2023,4509,5337966,3862,1950,84.47037691884887,Low,jaisalmer,rajasthan,True,jaisalmer,286
+West Bengal,South 24 Parganas,2023,5199,6159319,4455,2745,84.40868219359965,Low,south 24 parganas,west bengal,True,south 24 parganas,287
+Karnataka,Shivamogga,2023,4937,5967191,3892,2006,82.73574618275164,Low,shivamogga,karnataka,False,shivamogga,288
+Uttar Pradesh,Lucknow,2023,5607,6843158,4351,2049,81.93585476179273,Low,lucknow,uttar pradesh,True,lucknow,289
+Madhya Pradesh,Singrauli,2023,5093,6305626,4065,2157,80.76914171566789,Low,singrauli,madhya pradesh,False,singrauli,290
+Haryana,Palwal,2023,5335,6780453,4216,2509,78.68205855862432,Low,palwal,haryana,False,palwal,291
+Punjab,Sangrur,2023,5437,6937751,4517,2630,78.36833579066185,Low,sangrur,punjab,True,sangrur,292
+Kerala,Thrissur,2023,5062,6704339,4045,2408,75.50334194019723,Low,thrissur,kerala,True,thrissur,293
+Rajasthan,Bharatpur,2023,5018,6674388,3973,1843,75.18292313842107,Low,bharatpur,rajasthan,True,bharatpur,294
+Bihar,Saran,2023,4799,6768766,3734,2032,70.89918605547895,Low,saran,bihar,True,saran,295
+Madhya Pradesh,Sehore,2023,3959,6088532,3353,1606,65.02388424664599,Low,sehore,madhya pradesh,True,sehore,296
+Tamil Nadu,Madurai,2023,4118,6733637,3173,1425,61.155657781968344,Low,madurai,tamil nadu,True,madurai,297
+West Bengal,Malda,2023,4118,6913648,3382,1897,59.56334485064903,Low,malda,west bengal,False,malda,298
+Karnataka,Mandya,2023,3798,6532170,3031,1759,58.14300607608192,Low,mandya,karnataka,True,mandya,299
+Gujarat,Navsari,2023,3565,6877857,3024,1417,51.83300554227865,Low,navsari,gujarat,True,navsari,300
