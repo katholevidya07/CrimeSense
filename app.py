@@ -1046,16 +1046,10 @@ elif page == "Crime Prediction":
                         )
                         
                        
-                        raw_prediction = float(model.predict(features)[0])
-
-                        st.write("Selected year:", year)
-                        st.write("Selected crime type:", crime)
-                        st.write("Features sent to model:")
-                        st.dataframe(features)
-                        st.write("Raw model prediction:", raw_prediction)
-
-                        prediction = max(0.0, raw_prediction)
-
+                                               prediction = max(
+                            0.0,
+                            float(model.predict(features)[0]),
+                        )
 
                         rate_by_year[year] = prediction
 
