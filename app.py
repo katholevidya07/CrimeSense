@@ -1044,7 +1044,8 @@ elif page == "Crime Prediction":
                                 }
                             ]
                         )
-
+                        st.write("DEBUG — Forecast year:", year)
+st.write("DEBUG — Model inputs:", features.to_dict(orient="records"))
                         prediction = max(
                             0.0,
                             float(model.predict(features)[0]),
