@@ -1046,7 +1046,7 @@ elif page == "Crime Prediction":
                         )
                         
                        
-                                               prediction = max(
+                        prediction = max(
                             0.0,
                             float(model.predict(features)[0]),
                         )
